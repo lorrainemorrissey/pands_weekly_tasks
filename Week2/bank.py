@@ -3,6 +3,6 @@
 #Author: Lorraine Morrissey
 
 amount1 = int(input("Enter amount 1(in cents): "))
-amount2 = int(input("Enter amount 2(in cents):"))
+amount2 = int(input("Enter amount 2(in cents): "))
 totalamount = ((amount1 + amount2)/100)
 print ("The sum of these is €"+ f"{totalamount}")
